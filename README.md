@@ -1,5 +1,25 @@
 # WH-EXE-FULL-FUD
 
+This method can bypass all most all antivirus , Eset , mcafee , avast , Kaspersky , norton , + +
+
+[+]requirements 
+
+||> visual studio ( .Net desktop development + Universal Windows |> Platform development  )
+
+||> algorithm converter
+
+||> c# obfuscator
+
+ [+] SYSTEM TEST X64 & X86
+ 
+ ||>  Windows 10 [ Recommended System ]
+ 
+ ||>  Windows 8.1
+ 
+ ||>  Windows 8
+ 
+ ||>  Windows 7
+ 
 ☆ VIDEO > [Here]( https://www.youtube.com/watch?v=FAZ8X2NC23w " WH-EXE-FULL-FUD")
 
 FULL FUD METHOD (Run Time + Scan Time ) BYPASS 100%
