@@ -27,7 +27,7 @@ FULL FUD METHOD (Run Time + Scan Time ) BYPASS 100%
 
 If want to shop , visit in our Official page 
 .
-Price : $45/=
+Price : $75/=
 
 https://sellix.io/product/5f0b4a1386243
 
