@@ -10,7 +10,8 @@ This method can bypass all most all antivirus , Eset , mcafee , avast , Kaspersk
 
 ||> c# obfuscator
 
- [+] SYSTEM TEST X64 & X86
+
+# [+] SYSTEM TEST X64 & X86
  
  ||>  Windows 10 [ Recommended System ]
  
